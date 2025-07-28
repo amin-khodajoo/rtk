@@ -1,0 +1,29 @@
+{
+  "name": "my RTK Project",
+  "short_name": "my PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "An amazing app that helps you manage your daily tasks easily.",
+  "id": "/",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1e88e5",
+  "icons": [
+    {
+      "src": "https://www.svgrepo.com/show/501826/shop.svg",
+      "sizes": "800x800"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "sizes": "1049x1500",
+      "label": "Home screen",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "sizes": "663x879",
+      "label": "Home screen"
+    }
+  ]
+}
